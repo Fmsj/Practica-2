@@ -1,0 +1,79 @@
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi
+$ git clone https://github.com/panterino/practica1.git
+Cloning into 'practica1'...
+remote: Enumerating objects: 23, done.
+remote: Counting objects: 100% (23/23), done.
+remote: Compressing objects: 100% (17/17), done.
+remote: Total 23 (delta 0), reused 23 (delta 0), pack-reused 0
+Unpacking objects: 100% (23/23), done.
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi
+$ git checkout m2
+fatal: not a git repository (or any of the parent directories): .git
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi
+$ ls
+build/  build.xml  manifest.mf  nbproject/  practica1/  src/  test/
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi
+$ cd practica1/
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (master)
+$ git checkout m2
+Switched to a new branch 'm2'
+Branch 'm2' set up to track remote branch 'm2' from 'origin'.
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git sta
+stage    stash    status
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git sta
+stage    stash    status
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git sta
+stage    stash    status
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git sta
+stage    stash    status
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git status
+On branch m2
+Your branch is up to date with 'origin/m2'.
+
+nothing to commit, working tree clean
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git add .
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git commit -m "mi practica bien perra"
+On branch m2
+Your branch is up to date with 'origin/m2'.
+
+nothing to commit, working tree clean
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git push
+remote: Permission to panterino/practica1.git denied to Fmsj.
+fatal: unable to access 'https://github.com/panterino/practica1.git/': The requested URL returned error: 403
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ git push
+Everything up-to-date
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$ ^C
+
+FILI@DESKTOP-C9SKV5T MINGW32 ~/Documents/NetBeansProjects/EXperkidwijsbdfi/practica1 (m2)
+$
